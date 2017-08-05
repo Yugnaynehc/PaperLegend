@@ -27,7 +27,8 @@ Lucas, Bruce D, and Takeo Kanade, ‘An Iterative Image Registration Technique w
 - Efros, Alexei, and Thomas Leung, ‘Texture Synthesis by Non-Parametric Sampling’, in ICCV, 1999, ii, 1033–38 <https://doi.org/10.1109/ICCV.1999.790383>
 
 - Triggs, Bill, Philip F. McLauchlan, Richard I. Hartley, and Andrew W. Fitzgibbon, ‘Bundle Adjustment — a Modern Synthesis’, VisAlgs, 1999 <https://doi.org/10.1007/3-540-44480-7_21>
-Shi, Jianbo, and Jitendra Malik, ‘Normalized Cuts and Image Segmentation’, PAMI, 22 (2000), 888–905 <https://doi.org/10.1109/34.868688>
+
+- Shi, Jianbo, and Jitendra Malik, ‘Normalized Cuts and Image Segmentation’, PAMI, 22 (2000), 888–905 <https://doi.org/10.1109/34.868688>
 
 - Viola, P, and M Jones, ‘Rapid Object Detection Using a Boosted Cascade of Simple Features’, in CVPR, 2001, i, I--511--I--518 <https://doi.org/10.1109/CVPR.2001.990517>
 
@@ -65,14 +66,14 @@ Shi, Jianbo, and Jitendra Malik, ‘Normalized Cuts and Image Segmentation’, P
 
 - Felzenszwalb, Pedro F, Ross B Girshick, David Mcallester, and Deva Ramanan, ‘Object Detection with Discriminatively Trained Part-Based Models’, PAMI, 2010 <https://doi.org/10.1109/TPAMI.2009.167>
 
-- Shotton, Jamie, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, and others, ‘Real-Time Human Pose Recognition in Parts from Single Depth Images’, in CVPR, 2011 <https://doi.org/10.1007/978-3-642-28661-2-5>
+- Shotton, Jamie, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, and others, ‘Real-Time Human Pose Recognition in Parts from Single Depth Images’, in CVPR, 2011 <https://doi.org/10.1109/CVPR.2011.5995316>
 
-- Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E Hinton, ‘ImageNet Classification with Deep Convolutional Neural Networks’, in NIPS, 2012, pp. 1–9 <https://doi.org/http://dx.doi.org/10.1016/j.protcy.2014.09.007>
+- Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E Hinton, ‘ImageNet Classification with Deep Convolutional Neural Networks’, in NIPS, 2012, pp. 1–9 <https://doi.org/10.1145/3065386>
 
 - Girshick, Ross, Jeff Donahue, Trevor Darrell, and Jitendra Malik, ‘Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation’, in CVPR, 2014, pp. 580–87 <https://doi.org/10.1109/CVPR.2014.81>
 
-- Simonyan, Karen, and Andrew Zisserman, ‘Very Deep Convolutional Networks for Large-Scale Image Recognition’, in ICLR, 2015 <https://doi.org/10.1016/j.infsof.2008.09.005>
+- Simonyan, Karen, and Andrew Zisserman, ‘Very Deep Convolutional Networks for Large-Scale Image Recognition’, in ICLR, 2015 <https://arxiv.org/abs/1409.1556>
 
 - Russakovsky, Olga, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, and others, ‘ImageNet Large Scale Visual Recognition Challenge’, IJCV, 115 (2015), 211–52 <https://doi.org/10.1007/s11263-015-0816-y>
 
-- He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, ‘Deep Residual Learning for Image Recognition’, in CVPR, 2016 <https://doi.org/10.3389/fpsyg.2013.00124>
+- He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, ‘Deep Residual Learning for Image Recognition’, in CVPR, 2016 <https://doi.org/10.1109/CVPR.2016.90>
