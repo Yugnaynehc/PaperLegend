@@ -4,7 +4,8 @@
 - Roberts, Lawrence Gilman, ‘Machine Perception of Three-Dimensional Solids’, Doctoral Dissertation, Massachusetts Institute of Technology, 1963 <http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0413529>
 
 - Horn, Berthold K P, and Brian G. Schunck, ‘Determining Optical Flow’, Artificial Intelligence, 17 (1981), 185–203 <https://doi.org/10.1016/0004-3702(81)90024-2>
-Lucas, Bruce D, and Takeo Kanade, ‘An Iterative Image Registration Technique with an Application to Stereo Vision.’, in IJCAI, 1981, pp. 674–79 <https://doi.org/Doi 10.1145/358669.358692>
+
+- Lucas, Bruce D, and Takeo Kanade, ‘An Iterative Image Registration Technique with an Application to Stereo Vision.’, in IJCAI, 1981, pp. 674–79 <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.2019>
 
 - Canny, John F., ‘A Computational Approach to Edge Detection’, PAMI, 8 (1986), 679–98 <https://doi.org/10.1109/TPAMI.1986.4767851>
 
