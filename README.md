@@ -1,6 +1,6 @@
 # Paper Legend
 
-## Computer Vision Edition
+## Computer Vision
 - Roberts, Lawrence Gilman, ‘Machine Perception of Three-Dimensional Solids’, Doctoral Dissertation, Massachusetts Institute of Technology, 1963 <http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0413529>
 
 - Horn, Berthold K P, and Brian G. Schunck, ‘Determining Optical Flow’, Artificial Intelligence, 17 (1981), 185–203 <https://doi.org/10.1016/0004-3702(81)90024-2>
@@ -77,4 +77,22 @@
 
 - Russakovsky, Olga, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, and others, ‘ImageNet Large Scale Visual Recognition Challenge’, IJCV, 115 (2015), 211–52 <https://doi.org/10.1007/s11263-015-0816-y>
 
+- Szegedy, Christian, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, and others, ‘Going Deeper with Convolutions’, in CVPR, 2015 <https://doi.org/10.1109/CVPR.2015.7298594>
+
 - He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, ‘Deep Residual Learning for Image Recognition’, in CVPR, 2016 <https://doi.org/10.1109/CVPR.2016.90>
+
+
+## Natural Language Processing
+- Mikolov, Tomas, Greg Corrado, Kai Chen, and Jeffrey Dean, ‘Efficient Estimation of Word Representations in Vector Space’, in ICLR, 2013 <http://arxiv.org/abs/1301.3781>
+
+
+## Machine Learning
+- Vapnik, Vladimir Naumovich, The Nature of Statistical Learning Theory, Springer, 1995
+
+- Schapire, Robert E., Yoav Freund, Peter Bartlett, and Wee Sun Lee, ‘Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods’, Annals of Statistics, 26 (1998), 1651–86 <https://doi.org/10.1214/AOS/1024691352>
+
+- Roweis, Sam T, and Lawrence K Saul, ‘Nonlinear Dimensionality Reduction by Locally Linear Embedding’, Science, 290 (2000), 2323–26 <https://doi.org/10.1126/science.290.5500.2323>
+
+- Tenenbaum, J B, V de Silva, and J C Langford, ‘A Global Geometric Framework for Nonlinear Dimensionality Reduction.’, Science, 290 (2000), 2319–23 <https://doi.org/10.1126/science.290.5500.2319>
+
+- Candès, Emmanuel J, Xiaodong Li, Yi Ma, and John Wright, ‘Robust Principal Component Analysis?’, Journal of the ACM, 58 (2011), 1–37 <https://doi.org/10.1145/1970392.1970395>
